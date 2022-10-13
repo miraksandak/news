@@ -1,8 +1,8 @@
 # news
-News website - school project
+News website - IT school project
 
-School project for - Integrovana stredni skola technicka a ekonomicka Sokolov - [link](https://isste.cz).
+School project for - Integrovana stredni skola technicka a ekonomicka Sokolov - [ISŠTE](https://isste.cz).
 
-My website is easily geting data from API and fetch it to website.
+My website simply takes data from the api and outputs it to an HTML page.
 
-This project was created thanks to  [link]Newscatcherapi (https://newscatcherapi.com/)
+This project was created thanks to [Newscatcherapi](https://newscatcherapi.com/)
